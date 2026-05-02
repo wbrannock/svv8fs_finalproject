@@ -1,14 +1,13 @@
 # DS 5001 Final Project
 ## Completed by William Brannock (svv8fs)
 
-This repository contains my DS 5001 final project on a corpus of national constitutions. The public GitHub repository contains the notebooks, scripts, figures, and project configuration. Large source and derived CSV files are stored separately in Box.
+This repository contains my DS 5001 final project on a corpus of national constitutions. The public GitHub repository contains the notebooks, scripts, figures, and project configuration. Large source and derived CSV files are stored separately in Box. I did my best to try to keep everything as organized as possible, but it's possible I may have forgotten to make every last file shared on Box, if so just email me and I can get that fixed. 
 
 ## Box Data Folder
 
 I'm going to upload my raw csvs on this box folder:
 
 https://virginia.app.box.com/s/rio0s3eodz1db3apmut2xqlq0418y0as
-ping
 
 ## File Map
 
